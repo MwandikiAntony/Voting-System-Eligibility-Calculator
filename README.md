@@ -7,7 +7,7 @@ Create a new HTML file and include an external JavaScript file for your script.
 Name your HTML file as assignment.html and your JavaScript file as script.js.
 Follow the tasks below and ensure you structure your code for readability with proper comments.
 Tasks:
-## Part 1: JavaScript Basics
+Part 1: JavaScript Basics
 Variables and Data Types:
 
 Declare variables of different types: string, number, boolean, array, and object.
